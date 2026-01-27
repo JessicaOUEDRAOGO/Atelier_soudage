@@ -1,0 +1,1 @@
+C:\Users\ouedraogo\Downloads\soudage\Atelier_soudage\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\6p4c293c\obj\arm64-v8a

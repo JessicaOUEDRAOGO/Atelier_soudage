@@ -1,0 +1,2 @@
+C:\Users\ouedraogo\Downloads\soudage\Atelier_soudage\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\ouedraogo\Downloads\soudage\Atelier_soudage\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

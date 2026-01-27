@@ -1,0 +1,5 @@
+C:/Users/ouedraogo/Downloads/soudage/Atelier_soudage/.utmp/RelWithDebInfo/6p4c293c/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ouedraogo/Downloads/soudage/Atelier_soudage/.utmp/RelWithDebInfo/6p4c293c/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/ouedraogo/Downloads/soudage/Atelier_soudage/.utmp/RelWithDebInfo/6p4c293c/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/ouedraogo/Downloads/soudage/Atelier_soudage/.utmp/RelWithDebInfo/6p4c293c/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/ouedraogo/Downloads/soudage/Atelier_soudage/.utmp/RelWithDebInfo/6p4c293c/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
