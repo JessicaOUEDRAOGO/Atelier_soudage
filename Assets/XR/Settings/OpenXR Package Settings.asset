@@ -210,7 +210,7 @@ MonoBehaviour:
   - {fileID: 8376065269548788625}
   - {fileID: 7316476163228943036}
   m_renderMode: 1
-  m_latencyOptimization: 0
+  m_latencyOptimization: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
     m_List: 00000000
@@ -685,25 +685,25 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: 
   features:
-  - {fileID: -3161339245703719013}
-  - {fileID: -7469139349288749093}
   - {fileID: 6014145520414001200}
   - {fileID: -8710676864737745443}
+  - {fileID: 1073530285785848777}
+  - {fileID: 7044413449167932460}
+  - {fileID: -425554440638239463}
   - {fileID: -3636223666458082473}
+  - {fileID: -2579109541293265396}
+  - {fileID: 2914498482520396507}
+  - {fileID: 5796705719058693764}
+  - {fileID: -1447480562053362959}
   - {fileID: -8745119217689259731}
   - {fileID: -7726617301464863665}
-  - {fileID: -2975287284908597192}
-  - {fileID: 2914498482520396507}
-  - {fileID: -425554440638239463}
   - {fileID: 3011360604034832219}
-  - {fileID: -1447480562053362959}
-  - {fileID: 1073530285785848777}
-  - {fileID: 5796705719058693764}
-  - {fileID: -1866326581787024199}
+  - {fileID: -7469139349288749093}
   - {fileID: -292408232821787767}
+  - {fileID: -2975287284908597192}
+  - {fileID: -3161339245703719013}
   - {fileID: -1765633027845588980}
-  - {fileID: -2579109541293265396}
-  - {fileID: 7044413449167932460}
+  - {fileID: -1866326581787024199}
   m_renderMode: 1
   m_latencyOptimization: 0
   m_autoColorSubmissionMode: 1
